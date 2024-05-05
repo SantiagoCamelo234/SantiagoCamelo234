@@ -13,8 +13,6 @@
 
 ### My social networks
 
-**Instagram:** https://instagram.com/santiagocamelo.6?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
-
 **Linkedln:** https://www.linkedin.com/in/santiago-camelo-8b7622284/
 
 ### My personal Email: 
