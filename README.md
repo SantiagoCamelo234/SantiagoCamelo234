@@ -1,7 +1,7 @@
 ### About my Knowledge...
 
 - Currently I am studying Systems Engineer at Free University of Colombia
-- I have basic knowledge about front-end web developing (JavaScript, HTML5 and CSS3) but I do not practice because I think is not my favorite thing about programming!
+- I have basic knowledge about front-end web developing (JavaScript, HTML5 and CSS3)
 
 ## Programming Languages:
  - JavaScript
