@@ -19,9 +19,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
  
 # 🔥 Proyectos destacados
-- 🚀 [Money Manager: Sistema de gestion de gastos personales](https://github.com/tuusuario/proyecto-restaurante) 💸
+- 🚀 [Money Manager: Sistema de gestion de gastos personales](https://github.com/SantiagoCamelo234/MoneyManage) 💸
 
-- 🚀 [Fake Store API CRUD: CRUD consumiendo una API externa](https://github.com/tuusuario/proyecto-restaurante) 🏪
+- 🚀 [Fake Store API CRUD: CRUD consumiendo una API externa](https://github.com/tuusuario/fake-store-api-crud) 🏪
 
 
 # 🎓 Certificaciones 
