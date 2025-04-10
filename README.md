@@ -23,7 +23,7 @@
 
 - 🚀 [Fake Store API CRUD: CRUD consumiendo una API externa](https://github.com/SantiagoCamelo234/fake-store-api-crud) 🏪
 - 
-- 🚀 [Task Manager: Sistema de gestion de tareas implementando autenticacion con JWT](https://github.com/SantiagoCamelo234/mern-crud-auth) 🏪
+- 🚀 [Task Manager: Sistema de gestion de tareas implementando autenticacion con JWT](https://github.com/SantiagoCamelo234/mern-crud-auth)  📝
 
 
 # 🎓 Certificaciones 
